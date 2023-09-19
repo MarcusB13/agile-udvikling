@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{61E97771-AE24-4EF8-9EE8-CBF79EF04989}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Agile Udvikling/Program.cs">
+    <Files>
+      <File FileName="Agile Udvikling/Program.cs" Line="34" Column="1" />
+      <File FileName="Agile Udvikling - TEST/UnitTest1.cs" Line="23" Column="1" />
+      <File FileName="Agile Udvikling/worker.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Agile Udvikling" expanded="True">
+            <Node name="Agile Udvikling" expanded="True" selected="True" />
+            <Node name="Agile Udvikling - TEST" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Agile Udvikling">
+            <Node name="Agile Udvikling - TEST">
+              <Node name="Agile_Udvikling___TEST">
+                <Node name="UnitTest1">
+                  <Node name="TestData(sirname: &quot;Jo&quot;, surname: &quot;I b&quot;, resultId: &quot;joXXibXX&quot;) - 875f9738-cda9-a2c5-6642-53aacdc3fafd" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Agile_220Udvikling PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
